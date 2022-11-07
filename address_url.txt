@@ -1,0 +1,5 @@
+北京：http://map.amap.com/service/subway?_1667831317918&srhdata=1100_drw_beijing.json
+上海：http://map.amap.com/service/subway?_1667831556349&srhdata=3100_drw_shanghai.json
+广州：http://map.amap.com/service/subway?_1667831577132&srhdata=4401_drw_guangzhou.json
+更多：http://map.amap.com/subway/index.html
+f12 网络里搜索subway开头文件选择drw的url
